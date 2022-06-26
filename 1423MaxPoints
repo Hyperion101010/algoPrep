@@ -1,0 +1,26 @@
+class Solution {
+public:
+    int maxScore(vector<int>& cardPoints, int k) {
+        vector<int> lf, rg;
+        int sm=0;
+        int tsm=0;
+        int msize = cardPoints.size()-1;
+        for(int i=0;i<k;i++){
+            lf.push_back(cardPoints[i]+sm);
+            sm+=cardPoints[i];
+        }
+        for(int i=0;i<=msize;i++){
+            tsm+=cardPoints[i];
+        }
+        int p=0, plf=0, prg=0;
+        int ttsm= sm;
+        while(p < k){
+            sm-= cardPoints[k-p-1];
+            prg += cardPoints[msize-p];
+            ttsm = max(ttsm, sm+prg);
+            //cout<<p<<"for"<<ttsm<<sm<<prg;
+            p+=1;
+        }
+        return ttsm;
+    }
+};
