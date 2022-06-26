@@ -32,6 +32,7 @@
     - ##### [239 Sliding window max](https://leetcode.com/problems/sliding-window-maximum/)
     - ##### [219 Contains duplicate](https://leetcode.com/problems/contains-duplicate-ii/)
     - ##### [209 Min size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+    - ##### [1423 Max Points](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 
 ## 2. Two pointer
 
