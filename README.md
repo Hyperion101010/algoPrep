@@ -92,6 +92,7 @@
     - ##### [53 Max subarray](https://leetcode.com/problems/maximum-subarray/) Complete this also
     - ##### [494 Target Sum](https://leetcode.com/problems/target-sum/) Try other DP approaches
     - ##### [198 House Robber](https://leetcode.com/problems/house-robber) Try simple iterative approach
+    - ##### [5 Longest Pal substring](https://leetcode.com/problems/longest-palindromic-substring)
 
     DP set gfg
     
