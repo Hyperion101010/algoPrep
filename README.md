@@ -107,3 +107,8 @@
     - ## Map
       - To count occurences of elements
       - To count if element is repeated in given length string. mp.size and string length compare
+
+## 6. Code snippet of implementations
+
+
+  - #### LinkedList [replt](https://replit.com/@ShivamBalikondw/linkedlistclass#main.cpp)
