@@ -1,0 +1,35 @@
+class Solution {
+public:
+    int minimumDifference(vector<int>& nums, int k) {
+        sort(nums.begin(), nums.end());
+
+        int mn = 12345678;
+        int ans = -1;
+        for(int i =0; i< nums.size();i++){
+            // i + k - 1 is the offset since i = 0 , k =2 we have i ranges from 0 to 1.
+            //cout<<i<<" "<<k;
+            if(i+k-1 >= nums.size()){
+                // go back these steps
+                int tmp = i - k + 1;
+                if(tmp < 0){
+
+                    //case when the i - k is negative, thats a big pair on left out of bounds
+                    continue;
+                }
+                if(nums[i] - nums[tmp] < mn){
+                    mn = nums[i] - nums[tmp];
+                }
+            }else{
+                int t = nums[i+k-1] - nums[i];
+                if(t < mn){
+                    mn = t;
+                }
+            }
+        }
+        ans = mn;
+        if (ans == -1){
+            return 0;
+        }
+        return ans;
+    }
+};
