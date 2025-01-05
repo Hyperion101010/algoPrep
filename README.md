@@ -9,6 +9,7 @@
 ## Resource
   - #### [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
   - #### [Errichto Binary Search](https://www.youtube.com/watch?v=GU7DpgHINWQ)
+  - #### [Leetcode problem solving pattern](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
 ## 1. Sliding window
   
