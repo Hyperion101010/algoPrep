@@ -36,6 +36,7 @@
     - ##### [break][#]
     - ##### [1984 Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/?envType=problem-list-v2&envId=sliding-window)
     - ##### [594 Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=problem-list-v2&envId=sliding-window)
+    - ##### [1652 Diffuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/?envType=problem-list-v2&envId=sliding-window)
 
 ## 2. Two pointer
 
