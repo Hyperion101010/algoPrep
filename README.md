@@ -33,6 +33,7 @@
     - ##### [219 Contains duplicate](https://leetcode.com/problems/contains-duplicate-ii/)
     - ##### [209 Min size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
     - ##### [1423 Max Points](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+    - ##### [1984 Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/?envType=problem-list-v2&envId=sliding-window)
 
 ## 2. Two pointer
 
