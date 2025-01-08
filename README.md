@@ -5,6 +5,9 @@
 
 # List of solved problems.
 
+# Competitive templates.
+
+- [CPP competitive template](https://ncduy0303.github.io/Competitive-Programming/)
 
 ## Resource
   - #### [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
