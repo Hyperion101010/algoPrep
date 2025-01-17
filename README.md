@@ -43,6 +43,7 @@
     - ##### [1652 Diffuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/?envType=problem-list-v2&envId=sliding-window)
     - ##### [break - neetcode problems now]()
     - ##### [121 Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+    - ##### [3 Longest substring without repeating subsequence](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ## 2. Two pointer
 
