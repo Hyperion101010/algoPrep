@@ -45,6 +45,7 @@
     - ##### [121 Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
     - ##### [3 Longest substring without repeating subsequence](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
     - ##### [424 Longest repeating character replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+    - ##### [567 Permutation in string](https://leetcode.com/problems/permutation-in-string/)
 
 ## 2. Two pointer
 
