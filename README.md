@@ -87,6 +87,8 @@
     - ##### [153 Find minimum in sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
     - ##### [162 Find peak elements](https://leetcode.com/problems/find-peak-element/)
     - ##### [A Rank list codeforces](https://codeforces.com/contest/166/problem/A)
+    - ##### [break](#)
+    - ##### [704 Binary Search](https://leetcode.com/problems/binary-search/)
 
 ## 4. Dynamic Programming
   
