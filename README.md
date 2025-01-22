@@ -90,6 +90,7 @@
     - ##### [break](#)
     - ##### [704 Binary Search](https://leetcode.com/problems/binary-search/)
     - ##### [74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+    - ##### [875 Koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
 ## 4. Dynamic Programming
   
