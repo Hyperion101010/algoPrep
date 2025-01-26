@@ -92,6 +92,7 @@
     - ##### [74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
     - ##### [875 Koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/)
     - ##### [153 Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+    - ##### [33 Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/5378208/video-find-a-sorted-part-in-ascending-order/)
 
 ## 4. Dynamic Programming
   
