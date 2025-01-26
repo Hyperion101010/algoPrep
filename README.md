@@ -132,5 +132,9 @@
 
 ## 6. Code snippet of implementations
 
-
   - #### LinkedList [replt](https://replit.com/@ShivamBalikondw/linkedlistclass#main.cpp)
+
+# DSA
+
+## 1. Linkedlist
+  - #### [206 Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)
