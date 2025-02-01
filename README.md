@@ -142,3 +142,6 @@
   - #### [141 Linked list cycle](https://leetcode.com/problems/linked-list-cycle/)
   - #### [143 Reorder list](https://leetcode.com/problems/reorder-list/)
   - #### [19 Remove n th node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+## 2. Tree
+  - #### [226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) 
