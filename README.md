@@ -144,4 +144,5 @@
   - #### [19 Remove n th node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 ## 2. Tree
-  - #### [226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) 
+  - #### [226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+  - #### [543 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
