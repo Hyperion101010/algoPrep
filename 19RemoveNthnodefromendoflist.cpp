@@ -10,72 +10,55 @@
  */
 class Solution {
 public:
-    void reorderList(ListNode* head) {
-
-        // In this problem I am using deque as my stack
-        // So first I'll traverse the linkedlist to store my elemtns in a reverse order
-        // As it would happen in a stack
-        deque<ListNode*> dq;
-
-        ListNode* sp = head;
+    ListNode* removeNthFromEnd(ListNode* head, int n) {
+        ListNode* sp = nullptr;
         ListNode* fp = nullptr;
-        ListNode* newlst = nullptr;
+        ListNode* prev = nullptr;
         ListNode* tmp = nullptr;
 
-        // Traversal to store nodes in a deque.
-        while(sp){
-            dq.push_back(sp);
-            sp = sp->next;
-        }
+        int cnt = n;
 
-        int ln = dq.size();
-        int cnt = 0;
-
+        fp = head;
         sp = head;
+        prev = nullptr;
 
-        // Keep running the loop until we have our length match up to the midpoint
-        while(cnt < (int) (ln/2)){
+        // The crux of the problem is we consider to start the problem with 2 pointers.
+        // We start the traversal with a fast pointer that moves ahead in time and a slow pointer that moves only after n steps.
+        // So that will mean when we exhaust the first n steps of the fast pointer, then we will reach at a point where slow pointer is a valid location
+        // Cause in this scenario we will have sp at the valid location and thus we will be present at the correct location.
+        while(sp){
 
-            // Add initial cases when the list item has no element then it's always the head.
-            if(!newlst){
-                newlst = sp;
-            }else{
+            // If fp is exhausted that means we are the target location
+            if(!fp){
 
-                // If the head is present then append the prev to current head and advance.
-                newlst->next = sp;
-                newlst = sp;
+                // If prev is null that means our pointer is at the head.
+                if(!prev){
+                    tmp = sp->next;
+                    sp->next = nullptr;
+                    head = tmp;
+                }else{
+
+                    // Case of when the pointer is at the correct location
+                    // Just attach pointers and done.
+                    prev->next = sp->next;
+                }
+                break;
             }
 
-            // Advance head for the next loop.
-            sp = sp->next;
+            // If the cnt is 0 now it means we will start updating the slow pointer to also meet with the location.
+            if(cnt == 0){
+                prev = sp;
+                sp = sp->next;
+                fp = fp->next;
+            }
+            else{
 
-            // Pop things back from the queue so that they are fetched in the reverse order.
-            ListNode* tt = dq.back();
-            dq.pop_back();
-
-            // Append the poped element from the stack (deque) in our list and advance.
-            newlst->next = tt;
-            newlst = tt;
-            cnt +=1;
+                // Only update the fast pointer till n steps are exhausted.
+                fp = fp->next;
+                cnt -=1;
+            }
         }
 
-        // If cnt is 0 that means we have an empty linkedlist supplied.
-        if(cnt == 0){
-            return;
-        }
-
-        // If the linkedlist length is odd that means that we have append the middle element
-        // This will ofcourse be present in the deque (stack).
-        if(ln % 2 == 1){
-
-            // Take the element from deque (stack), append it and advance
-            ListNode* ttmp = dq.back();
-            dq.pop_back();
-            newlst->next = ttmp;
-            newlst = ttmp;
-        }
-
-        // Set the next pointer as null to terminate our new linedlist.
-        newlst->next = nullptr;
+        return head;
     }
 };
