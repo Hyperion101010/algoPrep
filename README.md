@@ -138,3 +138,4 @@
 
 ## 1. Linkedlist
   - #### [206 Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)
+  - #### [21 Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
