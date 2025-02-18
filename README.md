@@ -152,3 +152,4 @@
   - #### [199 Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
   - #### [1448 Count Good Nodes](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
   - #### [98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+  - #### [230 K'th Smallest Element In A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) 
