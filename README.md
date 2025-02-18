@@ -151,3 +151,4 @@
   - #### [235 Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
   - #### [199 Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
   - #### [1448 Count Good Nodes](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+  - #### [98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
