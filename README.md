@@ -116,6 +116,8 @@
     - ##### [494 Target Sum](https://leetcode.com/problems/target-sum/) Try other DP approaches
     - ##### [198 House Robber](https://leetcode.com/problems/house-robber) Try simple iterative approach
     - ##### [5 Longest Pal substring](https://leetcode.com/problems/longest-palindromic-substring)
+    - ##### [break]
+    - ##### [70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
     DP set gfg
     
