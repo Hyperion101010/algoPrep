@@ -138,14 +138,17 @@
 
 # DSA
 
-## 1. Linkedlist
+## 1. Array and Strings
+  - #### [49 Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
+## 2. Linkedlist
   - #### [206 Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)
   - #### [21 Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
   - #### [141 Linked list cycle](https://leetcode.com/problems/linked-list-cycle/)
   - #### [143 Reorder list](https://leetcode.com/problems/reorder-list/)
   - #### [19 Remove n th node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
-## 2. Tree
+## 3. Tree
   - #### [226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
   - #### [543 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
   - #### [101 Balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/)
