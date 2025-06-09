@@ -14,6 +14,10 @@
   - #### [Errichto Binary Search](https://www.youtube.com/watch?v=GU7DpgHINWQ)
   - #### [Leetcode problem solving pattern](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
+## 0. Arrays and Strings
+  - #### Problems solved
+    - ##### [238 Product of array except self](https://leetcode.com/problems/product-of-array-except-self/)
+
 ## 1. Sliding window
   
   The Sliding Window pattern is used to perform a required operation on a specific window size of a given array or linked list. Sliding Windows start from the 1st element and keep shifting right by one element and adjust the length of the window according to the problem that you are solving. In some cases, the window size remains constant and in other cases the sizes grows or shrinks.
