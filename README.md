@@ -140,6 +140,7 @@
     - ##### [39 Combination Sum](https://leetcode.com/problems/combination-sum/description/)
     - ##### [46 Permutations](https://leetcode.com/problems/permutations/)
     - ##### [90 Subsets 2](https://leetcode.com/problems/subsets-ii/)
+    - ##### [79 Word Search](https://leetcode.com/problems/word-search/)
   
 
 ## 6. Uses of DS.
