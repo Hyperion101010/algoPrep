@@ -129,6 +129,12 @@
     - ##### [1143 LCS](https://leetcode.com/problems/longest-common-subsequence/discuss/590781/From-Brute-Force-To-DP) Solved it.
     - ##### [72 Edit distance](https://leetcode.com/problems/edit-distance) solved it.
     - ##### [64 Minimum path sum](https://leetcode.com/problems/minimum-path-sum) understand it.
+
+    DP neetcode fresh
+    - ##### [70 Climbing stairs](https://leetcode.com/problems/climbing-stairs)
+    - ##### [198 House Robber](https://leetcode.com/problems/house-robber)
+    - ##### [213 House Robber 2](https://leetcode.com/problems/house-robber-ii/description/)
+    - ##### [62 Unique Paths](https://leetcode.com/problems/unique-paths/)
    
 
 ## 5. Backtracking
