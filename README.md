@@ -124,7 +124,7 @@
     - ##### [70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
     DP set gfg
-    
+
     - ##### [300 LIS](https://leetcode.com/problems/longest-increasing-subsequence/discuss/1326552/Optimization-From-Brute-Force-to-Dynamic-Programming-Explained!) Need to try binary search approach and also understand dp[ind][previ] reason
     - ##### [1143 LCS](https://leetcode.com/problems/longest-common-subsequence/discuss/590781/From-Brute-Force-To-DP) Solved it.
     - ##### [72 Edit distance](https://leetcode.com/problems/edit-distance) solved it.
@@ -135,6 +135,9 @@
     - ##### [198 House Robber](https://leetcode.com/problems/house-robber)
     - ##### [213 House Robber 2](https://leetcode.com/problems/house-robber-ii/description/)
     - ##### [62 Unique Paths](https://leetcode.com/problems/unique-paths/)
+
+    DP 2D
+    - ##### [64 Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
    
 
 ## 5. Backtracking
