@@ -131,11 +131,14 @@
     - ##### [64 Minimum path sum](https://leetcode.com/problems/minimum-path-sum) understand it.
 
     DP neetcode fresh
+
+    1D DP.
     - ##### [70 Climbing stairs](https://leetcode.com/problems/climbing-stairs)
     - ##### [198 House Robber](https://leetcode.com/problems/house-robber)
     - ##### [213 House Robber 2](https://leetcode.com/problems/house-robber-ii/description/)
     - ##### [62 Unique Paths](https://leetcode.com/problems/unique-paths/)
     - ##### [91 Decode Ways](https://leetcode.com/problems/decode-ways/)
+    - ##### [322 Coin Change](https://leetcode.com/problems/coin-change/description/)
 
     DP 2D
     - ##### [64 Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
