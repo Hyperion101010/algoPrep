@@ -75,6 +75,7 @@
     - ##### [break - neetcode problems now]()
     - ##### [125 Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1501204884/)
     - ##### [167 Two sum - Input is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+    - ##### [27 Remove Element](https://leetcode.com/problems/remove-element/)
 
 ## 3. Modified Binary Search
   
