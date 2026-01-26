@@ -174,6 +174,7 @@
 ## 1. Array and Strings
   - #### [49 Group Anagrams](https://leetcode.com/problems/group-anagrams/)
   - #### [36 Valid Soduku](https://leetcode.com/problems/valid-sudoku/description/)
+  - #### [128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 
 ## 2. Linkedlist
   - #### [206 Reverse a LinkedList](https://leetcode.com/problems/reverse-linked-list/)
