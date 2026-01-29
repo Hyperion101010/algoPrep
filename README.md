@@ -157,6 +157,14 @@
     - ##### [46 Permutations](https://leetcode.com/problems/permutations/)
     - ##### [90 Subsets 2](https://leetcode.com/problems/subsets-ii/)
     - ##### [79 Word Search](https://leetcode.com/problems/word-search/)
+
+## 6. Graphs
+
+  One of the most important concept in interviews and test.
+  
+  - #### Problems solved
+    - ##### [78 Subsets](https://leetcode.com/problems/subsets/description/)
+    - ##### [286 Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/)
   
 
 ## 6. Uses of DS.
