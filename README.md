@@ -173,6 +173,14 @@
     - ##### [207 Course Schedule](https://leetcode.com/problems/course-schedule/description/)
     - ##### [684 Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 
+
+## 7. Heap/Priority Queue
+
+  Usually about finding Kth largest, smallest elements.
+  
+  - #### Problems solved
+    - ##### [215 Kth largest element](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
 ## 6. Uses of DS.
 
     - ## Map
