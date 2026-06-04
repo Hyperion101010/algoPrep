@@ -188,7 +188,8 @@
   Interesting problems.
   
   - #### Problems solved
-    - ##### [57 insert intervals](https://leetcode.com/problems/insert-interval/description/) 
+    - ##### [57 insert intervals](https://leetcode.com/problems/insert-interval/description/)
+    - ##### [56 merge intervals](https://leetcode.com/problems/merge-intervals/description/)
 
 ## 6. Uses of DS.
 
