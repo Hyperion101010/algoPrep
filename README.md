@@ -182,6 +182,14 @@
     - ##### [215 Kth largest element](https://leetcode.com/problems/kth-largest-element-in-an-array/)
     - ##### [621 Task scheduling](https://leetcode.com/problems/task-scheduler/description/)
 
+
+## 8. Intervals
+
+  Interesting problems.
+  
+  - #### Problems solved
+    - ##### [57 insert intervals](https://leetcode.com/problems/insert-interval/description/) 
+
 ## 6. Uses of DS.
 
     - ## Map
