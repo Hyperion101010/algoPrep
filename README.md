@@ -191,6 +191,14 @@
     - ##### [57 insert intervals](https://leetcode.com/problems/insert-interval/description/)
     - ##### [56 merge intervals](https://leetcode.com/problems/merge-intervals/description/)
 
+
+## 9. Advanced Graph
+
+  Interesting problems.
+  
+  - #### Problems solved
+    - ##### [1584 minimum cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/0
+
 ## 6. Uses of DS.
 
     - ## Map
