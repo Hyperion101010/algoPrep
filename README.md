@@ -197,7 +197,8 @@
   Interesting problems.
   
   - #### Problems solved
-    - ##### [1584 minimum cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/0
+    - ##### [1584 minimum cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
+    - ##### [746 network delay time](https://leetcode.com/problems/network-delay-time/description/)
 
 ## 6. Uses of DS.
 
