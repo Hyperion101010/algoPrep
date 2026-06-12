@@ -200,6 +200,14 @@
     - ##### [1584 minimum cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
     - ##### [746 network delay time](https://leetcode.com/problems/network-delay-time/description/)
 
+
+## 9. Greedy
+
+  Optimisation problems.
+  
+  - #### Problems solved
+    - ##### [45 Jump 2](https://leetcode.com/problems/jump-game-ii/description/)
+
 ## 6. Uses of DS.
 
     - ## Map
