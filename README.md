@@ -204,9 +204,11 @@
 ## 9. Greedy
 
   Optimisation problems.
+  Kadane's algorithm.
   
   - #### Problems solved
     - ##### [45 Jump 2](https://leetcode.com/problems/jump-game-ii/description/)
+    - ##### [55 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
 
 ## 6. Uses of DS.
 
