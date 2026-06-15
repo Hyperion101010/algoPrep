@@ -210,6 +210,8 @@
     - ##### [45 Jump 2](https://leetcode.com/problems/jump-game-ii/description/)
     - ##### [53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)
     - ##### [55 Jump Game](https://leetcode.com/problems/jump-game/description/)
+    - ##### [763 Partition labels](https://leetcode.com/problems/partition-labels/)
+    - ##### [678 Valid parenthesis string](https://leetcode.com/problems/valid-parenthesis-string/description/)
 
 ## 6. Uses of DS.
 
