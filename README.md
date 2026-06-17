@@ -142,6 +142,7 @@
     - ##### [62 Unique Paths](https://leetcode.com/problems/unique-paths/)
     - ##### [91 Decode Ways](https://leetcode.com/problems/decode-ways/)
     - ##### [322 Coin Change](https://leetcode.com/problems/coin-change/description/)
+    - ##### [139 Word break](https://leetcode.com/problems/word-break/description/)
 
     DP 2D
     - ##### [64 Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)
