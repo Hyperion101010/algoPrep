@@ -237,6 +237,8 @@
   - #### [141 Linked list cycle](https://leetcode.com/problems/linked-list-cycle/)
   - #### [143 Reorder list](https://leetcode.com/problems/reorder-list/)
   - #### [19 Remove n th node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+  - #### [146 LRU cache](https://leetcode.com/problems/lru-cache/description/)
+  - #### [2 Add two numbers](https://leetcode.com/problems/add-two-numbers/)
 
 ## 3. Tree
   - #### [226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
