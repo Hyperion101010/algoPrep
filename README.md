@@ -213,6 +213,7 @@
     - ##### [55 Jump Game](https://leetcode.com/problems/jump-game/description/)
     - ##### [763 Partition labels](https://leetcode.com/problems/partition-labels/)
     - ##### [678 Valid parenthesis string](https://leetcode.com/problems/valid-parenthesis-string/description/)
+    - ##### [3914 Minimum operation to make string non decreasing](https://leetcode.com/problems/minimum-operations-to-make-array-non-decreasing/description/)
 
 ## 6. Uses of DS.
 
