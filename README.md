@@ -182,6 +182,7 @@
   - #### Problems solved
     - ##### [215 Kth largest element](https://leetcode.com/problems/kth-largest-element-in-an-array/)
     - ##### [621 Task scheduling](https://leetcode.com/problems/task-scheduler/description/)
+    - ##### [767 Reorganize string](https://leetcode.com/problems/reorganize-string/)
 
 
 ## 8. Intervals
