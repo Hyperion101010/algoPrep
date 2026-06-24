@@ -252,5 +252,6 @@
   - #### [235 Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
   - #### [199 Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
   - #### [1448 Count Good Nodes](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+  - #### [105 Construct binary tree from preorder and inorder traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
   - #### [98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
   - #### [230 K'th Smallest Element In A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) 
