@@ -100,6 +100,7 @@
     - ##### [153 Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
     - ##### [33 Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/5378208/video-find-a-sorted-part-in-ascending-order/)
     - ##### [35 Search insert position](https://leetcode.com/problems/search-insert-position/description/)
+    - ##### [1011 Capacity to ship containers within D days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
 
 ## 4. Dynamic Programming
   
