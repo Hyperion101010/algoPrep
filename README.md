@@ -216,6 +216,7 @@
     - ##### [763 Partition labels](https://leetcode.com/problems/partition-labels/)
     - ##### [678 Valid parenthesis string](https://leetcode.com/problems/valid-parenthesis-string/description/)
     - ##### [3914 Minimum operation to make string non decreasing](https://leetcode.com/problems/minimum-operations-to-make-array-non-decreasing/description/)
+    - ##### [3635 Earliest finish time for land and water 2](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii)
 
 ## 6. Uses of DS.
 
