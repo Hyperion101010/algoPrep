@@ -218,6 +218,13 @@
     - ##### [3914 Minimum operation to make string non decreasing](https://leetcode.com/problems/minimum-operations-to-make-array-non-decreasing/description/)
     - ##### [3635 Earliest finish time for land and water 2](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii)
 
+## 10. Math and Geometry
+
+  Mostly simulations.
+  
+  - #### Problems solved
+    - ##### [54 Spiral matrix](https://leetcode.com/problems/spiral-matrix/description/)
+    
 ## 6. Uses of DS.
 
     - ## Map
