@@ -204,7 +204,7 @@
     - ##### [746 network delay time](https://leetcode.com/problems/network-delay-time/description/)
 
 
-## 9. Greedy
+## 10. Greedy
 
   Optimisation problems.
   Kadane's algorithm.
@@ -218,12 +218,21 @@
     - ##### [3914 Minimum operation to make string non decreasing](https://leetcode.com/problems/minimum-operations-to-make-array-non-decreasing/description/)
     - ##### [3635 Earliest finish time for land and water 2](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii)
 
-## 10. Math and Geometry
+## 11. Math and Geometry
 
   Mostly simulations.
   
   - #### Problems solved
     - ##### [54 Spiral matrix](https://leetcode.com/problems/spiral-matrix/description/)
+
+## 12. Trie
+
+  Interesting problems.
+  
+  - #### Problems solved
+    - ##### [3043 Find the length of the longest common prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/)
+
+
     
 ## 6. Uses of DS.
 
