@@ -233,7 +233,13 @@
     - ##### [3043 Find the length of the longest common prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/)
 
 
-    
+## 13. Stack
+  
+  Interesting problems.
+  
+  - #### Problems solved
+    - ##### [394 decode strings](https://leetcode.com/problems/decode-string/description/)
+      
 ## 6. Uses of DS.
 
     - ## Map
