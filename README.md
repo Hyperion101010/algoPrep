@@ -239,6 +239,7 @@
   
   - #### Problems solved
     - ##### [394 decode strings](https://leetcode.com/problems/decode-string/description/)
+    - ##### [739 daily temperatures](https://leetcode.com/problems/daily-temperatures/description/)
       
 ## 6. Uses of DS.
 
