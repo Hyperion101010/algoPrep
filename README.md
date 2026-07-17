@@ -203,7 +203,7 @@
   - #### Problems solved
     - ##### [1584 minimum cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
     - ##### [746 network delay time](https://leetcode.com/problems/network-delay-time/description/)
-
+    - ##### [332 Reconstruct itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)
 
 ## 10. Greedy
 
