@@ -205,6 +205,7 @@
     - ##### [746 network delay time](https://leetcode.com/problems/network-delay-time/description/)
     - ##### [332 Reconstruct itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)
     - ##### [778 Swim in rising water](https://leetcode.com/problems/swim-in-rising-water/description/)
+    - ##### [269 Alien dictionary](https://leetcode.com/problems/alien-dictionary/description/)
 
 ## 10. Greedy
 
